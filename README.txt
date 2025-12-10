@@ -1,3 +1,6 @@
+# Prácticas Externas Luis García Aguirre
+Este es el repositorio de las prácticas externas realizadas en el ICVV como asignatura del máster en Bioinformática y Biología Computacional d
+
 1 - Data
 2 - capri_RMSD
 3 - 22dataset_mutations_YAML
