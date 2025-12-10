@@ -13,6 +13,6 @@ Las carpetas están ordenadas numéricamente para facilitar el orden de lectura.
 6. CCharPPI descriptors
 7. Data Merging
 
-Dado que el espacio de GitHub es limitado, se han subido las carpetas y archivos sin pasos intermedios, ésto es, sin  sin archivos pesados, sin los `.pdb` del PDB, pasos intermedios de PyDock4, `.env/lib/` borrado de las carpetas, etc. En caso de descargar los archivos y querer replicar el procedimiento y resultados, puede cambiar el nombre de las carpetas eliminando los espacios `' '` para evitar errores.
+Dado que el espacio de GitHub es limitado, se han subido las carpetas y archivos sin pasos intermedios, ésto es, sin  sin archivos pesados, sin los `.pdb` del PDB, pasos intermedios de PyDock4, `.env/lib/` borrado de las carpetas, etc. En caso de descargar los archivos y querer replicar el procedimiento y resultados, puede cambiar el nombre de las carpetas eliminando los espacios `' '` para evitar errores. Los archivos intermedios son generables a partir de los scripts presentes.
 
-Toda la información procedimental de cada paso se encuentra en los archivos `.ipynb`, que puede encontrar en cada carpeta. Con excepción de la primera (metadata), en la que sólo se encuentran los metadatos y la última (data merging), que como se explica en la memoria, no dió tiempo de terminar.
+Toda la información procedimental de cada paso se encuentra documentada en los archivos `.ipynb`, que puede encontrar en cada carpeta. Con excepción de la primera (metadata), en la que sólo se encuentran los metadatos y la última (data merging), que como se explica en la memoria, no dió tiempo de terminar. En estos archivos encontrará cada paso ordenado, usando a veces otros scripts satélites a éstos dentro de cada carpeta.
