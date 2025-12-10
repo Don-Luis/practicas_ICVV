@@ -6,12 +6,12 @@ Las carpetas están ordenadas numéricamente para facilitar el orden de lectura.
 1. Metadata 
 2. capri_RMSD
 3. YAML creation as Boltz2 input
-4. 22dataset_mutations_YAML
-  5. 22dataset_SIN_muts_YAML
-4. 22dataset_Boltz2_Features
-  - non_generated_boltz2_complexes (generación de los modelos faltantes por falta de RAM)
-5. CCharPPI descriptors
-6. Data Merging
+   - 22dataset_mutations_YAML
+   - 22dataset_SIN_muts_YAML
+5. 22dataset_Boltz2_Features
+   - non_generated_boltz2_complexes (generación de los modelos faltantes por falta de RAM)
+6. CCharPPI descriptors
+7. Data Merging
 
 Dado que el espacio de GitHub es limitado, se han subido las carpetas y archivos sin pasos intermedios, ésto es, sin  sin archivos pesados, sin los `.pdb` del PDB, pasos intermedios de PyDock4, `.env/lib/` borrado de las carpetas, etc. En caso de descargar los archivos y querer replicar el procedimiento y resultados, puede cambiar el nombre de las carpetas eliminando los espacios `' '` para evitar errores.
 
