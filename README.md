@@ -1,7 +1,7 @@
 # Prácticas Externas Luis García Aguirre
 Este es el repositorio de las prácticas externas realizadas en el ICVV como asignatura del máster en Bioinformática y Biología Computacional de la Universidad Autónoma de Madrid.
 
-Las carpetas están ordenadas numéricamente para facilitar el orden de lectura. Este orden corresponde al orden temporal en el que se realizaron los pasos planteados en la memoria:
+El orden temporal en el que se realizaron los pasos planteados en la memoria (y el que está pensado para leerse) es el siguente:
 
 1. Metadata 
 2. capri_RMSD
